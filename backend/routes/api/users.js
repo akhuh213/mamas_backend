@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken');
 const passport = require('passport');
 const JWT_SECRET = process.env.JWT_SECRET;
 const db = require('../../models')
-const User = require('../../models/User');
+
 
 
 
