@@ -1,1 +1,1 @@
-# mern-auth
+# mamas-papas
